@@ -8,3 +8,5 @@ only for learning git
 -pull
 -checkout -b
 -branch
+
+please consider to read about that topic, that will help you to building your feature
