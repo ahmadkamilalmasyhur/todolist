@@ -6,3 +6,5 @@ only for learning git
 -commit
 -push
 -pull
+-checkout -b
+-branch
